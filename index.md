@@ -45,3 +45,4 @@ Since 2016, I have been co-convener of the DES "Voids and Troughs" analysis team
  - Email: akovacs@iac.es
  - Skype: koaoact
  - Twitter: [@koaoact](https://twitter.com/koaoact)
+ - LinkedIn [page](https://www.linkedin.com/in/andras-kovacs-00046660/)
