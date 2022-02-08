@@ -10,6 +10,8 @@ Cosmology, Dark Energy, Cosmic Microwave Background, Cosmic voids
 
 Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J-PAS, WEAVE-QSO
 
+![collab](https://user-images.githubusercontent.com/11870801/152979281-e02c008c-e9f6-48f4-ac8e-d78c57fc82f1.png)
+
 ### Publications, congresses
 - Number of papers = 36,  Total citations = 2088,  h-index = 20 ([ADS](https://ui.adsabs.harvard.edu/public-libraries/Kalh3TzVTsyj5YNmtTE4oQ))
 - regular speaker at international DES, Euclid, and DESI collaboration meetings
@@ -20,7 +22,7 @@ Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J
 
 The standard ΛCDM (Lambda-Cold Dark Matter) cosmological model has emerged as the consensus model of Einstein's generally relativistic universe. It has shown truly remarkable explanatory power over a variety of cosmic scales and epochs, and it narrates a reassuring story of a model universe currently filled mostly with dark matter and dark energy. However, this explanation is not completely satisfactory because the actual nature of the dark sector remains a key puzzle.
 
-To address this problem, international collaborations have built new instruments to map ever larger cosmological volumes. I have led data-analysis projects (with about 100 participants) in state-of-the-art galaxy and quasar surveys (DES, Euclid, eBOSS), with a pioneering role in precise measurements and simulations of the integrated Sachs-Wolfe effect (ISW) effect. In particular, I established myself as a leading international expert in mapping the largest under-dense structures in the cosmic web, the cosmic voids, that I have used for CMB-LSS cross-correlation studies. My ground-breaking results in observational cosmology have generated considerable media attention including a cover of the Scientific American.
+To address this problem, international collaborations have built new instruments to map ever larger cosmological volumes. I have led data-analysis projects (with about 100 participants) in state-of-the-art galaxy and quasar surveys (DES, Euclid, eBOSS), with a pioneering role in precise measurements and simulations of the integrated Sachs-Wolfe effect (ISW) effect. In particular, I established myself as a leading international expert in mapping the largest under-dense structures in the cosmic web, the cosmic voids, that I have used for CMB-LSS cross-correlation studies. My ground-breaking results in observational cosmology have generated considerable media attention including a cover of the [Scientific American](https://www.scientificamerican.com/article/the-emptiest-place-in-space/).
 
 ![cs_plots](https://user-images.githubusercontent.com/11870801/152977489-838a68ab-cdfa-4549-af39-0e2cac900c8f.png)
 
