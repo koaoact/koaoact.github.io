@@ -1,34 +1,34 @@
 ## András Kovács - Cosmologist
 
-You can find more details about my [research](http://research.iac.es/proyecto/cosmolss/pages/en/about-contact.php).
+I view myself primarily as a data-oriented astrophysicist who focuses on the characterisation of the cosmic large-scale structure (LSS). I specialised in novel observational probes of the mysterious dark energy, that is among the biggest puzzles in fundamental physics today. I devoted my career to understand this mystery. You can find more details about my research on the web page of the [Cosmo-LSS](http://research.iac.es/proyecto/cosmolss/pages/en/about-contact.php) research group at the Instituto de Astrofísica de Canarias (IAC) where I currently hold a _Juan de la Cierva Incorporación_ postdoctoral fellowship.
 
+### Keywords
 
-### Markdown
+Cosmology, Dark Energy, Cosmic Microwave Background, Cosmic voids
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### International collaborations
 
-```markdown
-Syntax highlighted code block
+Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J-PAS, WEAVE-QSO
 
-# Header 1
-## Header 2
-### Header 3
+### Publications, congresses
+- Number of papers = 36,  Total citations = 2088,  h-index = 20 ([ADS](https://ui.adsabs.harvard.edu/public-libraries/Kalh3TzVTsyj5YNmtTE4oQ))
+- regular speaker at international DES, Euclid, and DESI collaboration meetings
+- 36 oral and 10 poster contributions at international conferences
+- 10+ invited presentations and plenary talks at prestigious conferences and institutes
 
-- Bulleted
-- List
+### Researcher Profile
 
-1. Numbered
-2. List
+The standard ΛCDM (Lambda-Cold Dark Matter) cosmological model has emerged as the consensus model of Einstein's generally relativistic universe. It has shown truly remarkable explanatory power over a variety of cosmic scales and epochs, and it narrates a reassuring story of a model universe currently filled mostly with dark matter and dark energy. However, this explanation is not completely satisfactory because the actual nature of the dark sector remains a key puzzle.
 
-**Bold** and _Italic_ and `Code` text
+To address this problem, international collaborations have built new instruments to map ever larger cosmological volumes. I have led data-analysis projects (with about 100 participants) in state-of-the-art galaxy and quasar surveys (DES, Euclid, eBOSS), with a pioneering role in precise measurements and simulations of the integrated Sachs-Wolfe effect (ISW) effect. In particular, I established myself as a leading international expert in mapping the largest under-dense structures in the cosmic web, the cosmic voids, that I have used for CMB-LSS cross-correlation studies. My ground-breaking results in observational cosmology have generated considerable media attention including a cover of the Scientific American.
 
-[Link](url) and ![Image](src)
-```
+![cs_plots](https://user-images.githubusercontent.com/11870801/152977489-838a68ab-cdfa-4549-af39-0e2cac900c8f.png)
 
-### Jekyll Themes
+My career can be summarised as a series of fruitful transfers of knowledge in data-analysis to ever more complicated cosmological data sets. I obtained my PhD degree from the Eötvös University (2011-2014), supported by significant training at the University of Hawaii (USA). Then, I had postdoc positions at the Institut de Física d’Altes Energías (IFAE, 2014-18), and at the Instituto de Astrofísica de Canarias (IAC, 2018-22). Working with two PhD students and a MSc student, I now hold a Juan de la Cierva Incorporación fellowship (success rate <7,5%).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koaoact/koaoact.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Since 2016, I have been convener of the DES "Voids and Troughs" analysis team (~15-20 international researchers). I am also founding member of the “EuclidVoids” research team (~90 scientists). My extensive experience with data analysis and my leadership in international collaborations now put me in a strong position to lead the planned ISW and lensing analyses for the next big cosmological experiments (DESI, Euclid, LSST, J-PAS, WEAVE-QSO) that will provide unprecedented new data in the next 5-6 years with vital Spanish contributions.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+ - Email: akovacs@iac.es
+ - Skype: koaoact
+ - Twitter: [@koaoact](https://twitter.com/koaoact)
