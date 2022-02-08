@@ -2,7 +2,7 @@
 
 I view myself primarily as a _data-oriented_ astrophysicist who focuses on the characterisation of the cosmic [large-scale structure](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) (LSS). I specialised in novel observational probes of the mysterious [dark energy](https://en.wikipedia.org/wiki/Dark_energy), that is among the biggest puzzles in fundamental physics today. 
 
-I devoted my career to understand this mystery. You can find more details about my research on the web page of the [Cosmo-LSS](http://research.iac.es/proyecto/cosmolss/pages/en/about-contact.php) research group at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) where I currently hold a Juan de la Cierva _Incorporación_ postdoctoral fellowship.
+I devoted my career to understand this mystery. You can find more details about my research on the web page of the [Cosmo-LSS](http://research.iac.es/proyecto/cosmolss/pages/en/about-contact.php) research group at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) (IAC) where I currently hold a Juan de la Cierva _Incorporación_ postdoctoral fellowship.
 
 ### Keywords
 
