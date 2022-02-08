@@ -4,6 +4,8 @@ I view myself primarily as a _data-oriented_ astrophysicist who focuses on the c
 
 I devoted my career to understand this mystery. You can find more details about my research on the web page of the [Cosmo-LSS](http://research.iac.es/proyecto/cosmolss/pages/en/about-contact.php) research group at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) (IAC) where I currently hold a Juan de la Cierva _Incorporación_ postdoctoral fellowship.
 
+![plots_astro](https://user-images.githubusercontent.com/11870801/153073650-9eee9a30-0828-4e81-aca4-390ef2ebded5.png)
+
 ### Keywords
 
 Cosmology, Dark Energy, Cosmic Microwave Background, Cosmic voids
@@ -33,6 +35,9 @@ In particular, I established myself as a leading international expert in mapping
 My career can be summarised as a series of fruitful transfers of knowledge in data-analysis to ever more complicated cosmological data sets. I obtained my PhD degree from the [Eötvös University](https://physics.elte.hu/) (2011-2014), supported by significant training at the [University of Hawaii](http://www.ifa.hawaii.edu/) (USA). Then, I had postdoc positions at the [Institut de Física d’Altes Energíes](https://www.ifae.es/) (IFAE, 2014-18), and at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) (IAC, 2018-22). Working with two PhD students and a MSc student, I now hold a Juan de la Cierva _Incorporación_ fellowship (success rate <7,5%).
 
 Since 2016, I have been co-convener of the DES "Voids and Troughs" analysis team (~15-20 international researchers). I am also founding member of the “EuclidVoids” research team (~90 scientists). My extensive experience with data analysis and my leadership in international collaborations now put me in a strong position to lead the planned ISW and lensing analyses for the next big cosmological experiments (DESI, Euclid, LSST, J-PAS, WEAVE-QSO) that will provide unprecedented new data in the next 5-6 years with vital Spanish contributions.
+
+![surveys_astro](https://user-images.githubusercontent.com/11870801/153074562-1572eb19-577b-4c90-85d8-7200f8b22083.png)
+
 
 ### Contact
  - Email: akovacs@iac.es
