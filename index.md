@@ -8,7 +8,7 @@ I devoted my career to understand this mystery. You can find more details about 
 
 ### Keywords
 
-Cosmology, Dark Energy, Cosmic Microwave Background, Cosmic voids
+Cosmology, Dark Energy, Cosmic Microwave Background (CMB), Cosmic voids
 
 ### International collaborations
 
@@ -31,6 +31,8 @@ To address this problem, international collaborations have built new instruments
 In particular, I established myself as a leading international expert in mapping the largest under-dense structures in the cosmic web, the _cosmic voids_, that I have used for CMB-LSS cross-correlation studies. My ground-breaking results in observational cosmology have generated considerable media attention including a cover of the [Scientific American](https://www.scientificamerican.com/article/the-emptiest-place-in-space/) and a [Fermilab](https://news.fnal.gov/2022/01/scientists-move-a-step-closer-to-understanding-the-cold-spot-in-the-cosmic-microwave-background/) press release.
 
 ![cs_plots](https://user-images.githubusercontent.com/11870801/152980146-3a629d32-1445-4efc-9887-98c10812f922.png)
+
+### CV summary
 
 My career can be summarised as a series of fruitful transfers of knowledge in data-analysis to ever more complicated cosmological data sets. I obtained my PhD degree from the [Eötvös University](https://physics.elte.hu/) (2011-2014), supported by significant training at the [University of Hawaii](http://www.ifa.hawaii.edu/) (USA). Then, I had postdoc positions at the [Institut de Física d’Altes Energíes](https://www.ifae.es/) (IFAE, 2014-18), and at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) (IAC, 2018-22). Working with two PhD students and a MSc student, I now hold a Juan de la Cierva _Incorporación_ fellowship (success rate <7,5%).
 
