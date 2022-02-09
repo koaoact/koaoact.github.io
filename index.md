@@ -22,6 +22,10 @@ Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J
 - 36 oral and 10 poster contributions at international conferences
 - 10+ invited presentations and plenary talks at prestigious conferences and institutes
 
+### News: _Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background_
+
+![news_stro](https://user-images.githubusercontent.com/11870801/153143443-e30c43ac-08da-4993-b604-11439b6a45ca.png)
+
 ### Researcher Profile
 
 The standard ΛCDM (Lambda-Cold Dark Matter) cosmological model has emerged as the consensus model of Einstein's generally relativistic universe. It has shown truly remarkable explanatory power over a variety of cosmic scales and epochs, and it narrates a reassuring story of a model universe currently filled mostly with dark matter and dark energy. However, this explanation is not _completely_ satisfactory because the actual nature of the dark sector remains a key puzzle.
