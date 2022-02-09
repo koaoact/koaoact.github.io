@@ -22,7 +22,8 @@ Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J
 - 36 oral and 10 poster contributions at international conferences
 - 10+ invited presentations and plenary talks at prestigious conferences and institutes
 
-## Media coverage: **Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background**
+## News
+### **"Scientists move a step closer to understanding the cold spot in the cosmic microwave background"** - _see the [Fermilab](https://news.fnal.gov/2022/01/scientists-move-a-step-closer-to-understanding-the-cold-spot-in-the-cosmic-microwave-background/) and the [IAC](https://www.iac.es/en/outreach/news/astronomers-confirm-existence-cosmic-supervoid-challenges-our-understanding-dark-energy) press releases_.
 
 ![news_stro](https://user-images.githubusercontent.com/11870801/153143443-e30c43ac-08da-4993-b604-11439b6a45ca.png)
 
