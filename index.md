@@ -1,4 +1,4 @@
-## András Kovács - Cosmologist
+# András Kovács - Cosmologist
 
 I view myself primarily as a _data-oriented_ astrophysicist who focuses on the characterisation of the cosmic [large-scale structure](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) (LSS). I specialised in novel observational probes of the mysterious [dark energy](https://en.wikipedia.org/wiki/Dark_energy), that is among the biggest puzzles in fundamental physics today. 
 
@@ -22,11 +22,11 @@ Dark Energy Survey (DES), Dark Energy Spectroscopic Instrument (DESI), Euclid, J
 - 36 oral and 10 poster contributions at international conferences
 - 10+ invited presentations and plenary talks at prestigious conferences and institutes
 
-### News: _Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background_
+## Media coverage: **Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background**
 
 ![news_stro](https://user-images.githubusercontent.com/11870801/153143443-e30c43ac-08da-4993-b604-11439b6a45ca.png)
 
-### Researcher Profile
+## Researcher Profile
 
 The standard ΛCDM (Lambda-Cold Dark Matter) cosmological model has emerged as the consensus model of Einstein's generally relativistic universe. It has shown truly remarkable explanatory power over a variety of cosmic scales and epochs, and it narrates a reassuring story of a model universe currently filled mostly with dark matter and dark energy. However, this explanation is not _completely_ satisfactory because the actual nature of the dark sector remains a key puzzle.
 
@@ -36,7 +36,7 @@ In particular, I established myself as a leading international expert in mapping
 
 ![cs_plots](https://user-images.githubusercontent.com/11870801/152980146-3a629d32-1445-4efc-9887-98c10812f922.png)
 
-### CV summary
+## CV summary
 
 My career can be summarised as a series of fruitful transfers of knowledge in data-analysis to ever more complicated cosmological data sets. I obtained my PhD degree from the [Eötvös University](https://physics.elte.hu/) (2011-2014), supported by significant training at the [University of Hawaii](http://www.ifa.hawaii.edu/) (USA). Then, I had postdoc positions at the [Institut de Física d’Altes Energíes](https://www.ifae.es/) (IFAE, 2014-18), and at the [Instituto de Astrofísica de Canarias](https://www.iac.es/) (IAC, 2018-22). Working with two PhD students and a MSc student, I now hold a Juan de la Cierva _Incorporación_ fellowship (success rate <7,5%).
 
